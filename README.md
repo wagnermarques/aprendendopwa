@@ -1,28 +1,26 @@
-# php-getting-started
+# Aprendendo Pwa no Heroku
 
-A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
+Site simples pra comecar o aprendizado da tecnologia PWA
 
-This application supports the [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php) article - check it out.
+## Como usar este repositorio
 
-## Deploying
+### Branch projetoinicialmaissimples
+    Essa branch projetoinicialmasisimples mostra o projeto no inicio do aprendizado, ou seja, o projeto sendo um site simples do simples sem nada so um html puro.
+    O projeto do jeito que esta nesse branch pode ser enviado para o heroku
 
-Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
+
+
+### Branch projetocommanifest
+    Neste branch o projeto tera um manifest mais simples possivel tornando o site um pwa mais simples possivel
+
+
+## Como utilizar esse repositorio
+### Clonando este repositorio
 
 ```sh
-$ git clone git@github.com:heroku/php-getting-started.git # or clone your own fork
-$ cd php-getting-started
+$ git clone https://github.com/wagnermarques/aprendendopwa.git
+$ cd aprendendopwa
 $ heroku create
 $ git push heroku main
 $ heroku open
 ```
-
-or
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-## Documentation
-
-For more information about using PHP on Heroku, see these Dev Center articles:
-
-- [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
-- [PHP on Heroku](https://devcenter.heroku.com/categories/php)

@@ -3,7 +3,9 @@
   "short_name": "AprendPWA",
   "description": "WEB APP para aprender PWA (Disciplina PAMII).",
   "display": "standalone",
+
   "scope": "/",
+
   "icons": [{
     "src": "images/touch/homescreen48.png",
     "sizes": "48x48",
