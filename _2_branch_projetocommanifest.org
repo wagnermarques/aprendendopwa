@@ -1,0 +1,11 @@
+#+Title: Primeira Versao do Manifest
+
+Vamos fazer nossa primeira versao do manifest.
+
+
+* O que e o arquivo manifest?
+  O que faz o seu site virar um webapp e o arquivo manifest que vc
+  cria e carrega no seu html.
+
+  
+  

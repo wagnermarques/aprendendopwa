@@ -1,0 +1,15 @@
+{
+  "background_color": "aprendendopwa",
+  "description": "Aprendendo PWA",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "AprendPWA",
+  "short_name": "AprPWA",
+  "start_url": "/index.html"
+}

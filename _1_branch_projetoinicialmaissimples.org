@@ -1,0 +1,5 @@
+#+Title: Branch Projeto Inicial Mais Simples
+Esse branch serve pra gente aprender a fazer um site o mais simples
+possivel e colocar ele na nuvem do heroku.
+
+O site deste branch nao e pwa ainda, e so um html simples.

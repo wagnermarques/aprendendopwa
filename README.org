@@ -1,0 +1,28 @@
+#+TITLE: Aprendendo Pwa no Heroku
+
+Esse repositorio e utilizado durante aulas de mobile quando o assunto
+e pwa. 
+
+* Como usar este repositorio
+
+** Branch projetoinicialmaissimples
+   Essa branch projetoinicialmasisimples mostra o projeto no inicio do aprendizado, ou seja, o projeto sendo um site simples do simples sem nada so um html puro.
+   O projeto do jeito que esta nesse branch pode ser enviado para o heroku
+
+** Branch projetocommanifest
+   O codigo deste branch traz uma primeira experiencia com o arquivo
+   manifest.
+
+
+
+
+## Como utilizar esse repositorio
+### Clonando este repositorio
+
+```sh
+$ git clone https://github.com/wagnermarques/aprendendopwa.git
+$ cd aprendendopwa
+$ heroku create
+$ git push heroku main
+$ heroku open
+```
