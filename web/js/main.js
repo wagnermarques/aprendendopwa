@@ -1,5 +1,5 @@
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/service-worker.js')
+    navigator.serviceWorker.register('/service-worker-minimum-to-intall-pwa.js')
         .then(function(registration) {
             alert('Registration successful, scope is:', registration.scope);
         })
